@@ -1,2 +1,3 @@
 *.exe
-tekst.txt
+tekst
+a
